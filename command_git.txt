@@ -1,7 +1,0 @@
-git pull https://github.com/Kanyd3v/git_training.git # <<< Recupere le projet issu du lien github
-
-git fetch # <<< Commande pour verifier historique et fichiers
-
-git checkout -b BranchTest
-
-ouloulou gang
